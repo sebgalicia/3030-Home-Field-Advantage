@@ -1,0 +1,5 @@
+{
+  "r.plot.useHttpgd": true,
+  "r.bracketedPaste": true,
+  "r.rterm.option": ["--no-save", "--no-restore"]
+}

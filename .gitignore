@@ -1,0 +1,11 @@
+# R session files
+.Rhistory
+.RData
+.Rapp.history
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Raw data in data/raw/ IS committed so everyone uses identical files.
+# R/01_load.R can re-download it (set redownload <- TRUE).
